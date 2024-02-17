@@ -5,6 +5,5 @@ This is a test
 
 ## This is a table
 
-| ---- | ---- |
 | Hi | Hello |
 | ---- | ---- |
